@@ -1,6 +1,8 @@
 # German-Car-Sales-Analysis
 This project presents a data-driven analysis of over 7,000 used cars listed in the German market. It aims to uncover key insights into how vehicle attributes—such as brand, mileage, fuel type, and transmission—influence pricing and market behavior. The findings support better understanding for analysts, marketers, and automotive stakeholders.
 
+![image](https://github.com/user-attachments/assets/cab84fe6-5899-46ff-8529-49f6f00c64f1)
+
 ## 🔍 Overview
 The analysis was performed on a cleaned dataset of 7,784 car listings, each detailing aspects like brand, model year, mileage, transmission type, segment, and fuel type. The core of this project focused on:
 1. Brand-wise pricing and distribution
