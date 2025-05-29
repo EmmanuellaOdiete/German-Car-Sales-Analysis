@@ -16,7 +16,7 @@ This project provides key insights into the dynamics of the used car market in G
 In addition to its business relevance, this project is a strong example of real-world data cleaning, exploratory analysis, and visualization. It shows how thoughtful preprocessing and segmentation can turn raw data into clear, actionable insights. Aspiring analysts can use it as a practical reference for developing automotive dashboards and mastering data storytelling in Power BI.
 
 ## 📂 Access the Dataset
-The dataset used for this project is included in this repository under the name **german_cars_data**. It contains structured data on over 7,000 used cars, with attributes such as price, mileage, brand, fuel type, and transmission. You can download or clone the repository to explore the dataset and build on the analysis.
+The dataset used for this project is included in this repository under the name **german_cars_data.csv**. It contains structured data on over 7,000 used cars, with attributes such as price, mileage, brand, fuel type, and transmission. You can download or clone the repository to explore the dataset and build on the analysis.
 
 ## 📊 Key Findings
 * Volkswagen dominates listings with the highest total price contribution.
